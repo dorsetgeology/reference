@@ -6,3 +6,5 @@ url: https://dorsetgeology.github.io/reference
 
 aux_links:
   Template Repository: https://github.com/dorsetgeology/referenc
+
+plugins: ['jekyll/scholar']
